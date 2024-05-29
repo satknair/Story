@@ -1,0 +1,2 @@
+This is chapter 3 of the git commit lessons
+Happy learning again
